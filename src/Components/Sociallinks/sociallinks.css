@@ -1,0 +1,14 @@
+.icon {
+  font-size: 3rem;
+  opacity: 0.5;
+  margin: 0px 2rem;
+  cursor: pointer;
+  box-shadow: 10px solid black;
+}
+
+@media (max-width: 768px) {
+  .icon {
+    font-size: 2rem;
+    margin-bottom: 1rem;
+  }
+}

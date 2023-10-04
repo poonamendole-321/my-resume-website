@@ -1,0 +1,105 @@
+.my_intro {
+  display: flex;
+  flex-wrap: wrap;
+  margin-top: 6%;
+  margin-bottom: 2rem;
+  margin-right: auto;
+  margin-left: auto;
+  padding: 0 1rem;
+  max-width: 1800px;
+  justify-content: center;
+  align-items: center;
+}
+
+.left_section {
+  display: flex;
+  width: 50%;
+  box-sizing: border-box;
+  flex-direction: column;
+  padding-right: 1rem;
+  box-sizing: border-box;
+}
+
+.my_intro_name {
+  font-size: 4rem;
+  font-weight: 500;
+  text-align: left;
+  margin: 0;
+}
+
+.my_intro_heading {
+  font-size: 2rem;
+  font-weight: 400;
+  margin: 0;
+}
+
+.my_intro_para {
+  color: black;
+  font-size: 1.5rem;
+  opacity: 0.6;
+  font-weight: 400;
+  margin-bottom: 0;
+}
+
+.my_intro_find {
+  margin-top: 2rem;
+  font-size: 1.5rem;
+}
+
+.right_section {
+  flex: 1;
+  width: 50%;
+  box-sizing: border-box;
+  text-align: center;
+}
+
+.my_intro_redirect {
+  text-align: left;
+}
+
+.right_section img {
+  width: 100%;
+  height: auto;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+
+@media (max-width: 768px) {
+  .my_intro {
+    flex-direction: column;
+    margin-top: 28%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 1rem;
+    padding: 10px;
+  }
+
+  .my_intro_name {
+    text-align: center;
+    font-size: 2.5rem;
+  }
+
+  .my_intro_para {
+    font-size: 1.2rem;
+  }
+
+  .left_section,
+  .right_section {
+    width: 100%;
+    padding: 0;
+    text-align: center;
+  }
+  .my_intro_heading {
+    font-size: 1.5rem;
+    margin-top: 0;
+    margin-bottom: 0;
+  }
+
+  .my_intro_redirect {
+    text-align: center;
+  }
+
+  .my_intro_find {
+    margin-top: 1rem;
+    font-weight: 400;
+  }
+}
