@@ -10,7 +10,7 @@ const Footer = () => {
       <div className="footer_wrapper">
         <div className="footer_address">
           <h2>Address</h2>
-          <p>Shivsahi Darshan Apartment</p>
+          <p>Shivsai Darshan Apartment</p>
           <p> Ajdegaon, Dombivali (E), 421203</p>
         </div>
         <div className="footer_address">
