@@ -38,22 +38,21 @@ const About = () => {
       <div className="about_data">
         <div className="about_para">
           <p>
-            Over the past 1 year, I’ve worked with startups to successfully help
-            them reach their full potential and attract new customers.
+            After completing my BCA, I commenced a fulfilling journey with an
+            internship as a Software Developer at VgroomU. This experience
+            seamlessly transitioned into a continued role within the same
+            organization until October 2023
           </p>
           <p>
-            After completing my BCA, undertook an internship as a Software
-            Developer intern at VgroomU. I then transitioned to a continued role
-            as a Software Developer within the same organization.
+            In this role, I collaborated across teams to deliver high-quality
+            projects promptly. I focused on creating visually appealing,
+            user-friendly websites, prioritizing a seamless user experience.
+            Proactively incorporating client feedback, I led design revisions
+            that significantly improved overall satisfaction.
           </p>
           <p>
-            Presently, I'm part of the team Docbuddy, where I play an active
-            role in contributing to software development projects. My role
-            includes shaping web page design, creating reusable code, and
-            optimizing loading times, I honed my skills in API integrations.
-            These experiences have enabled me to contribute effectively to the
-            world of software development, as I continue to explore innovative
-            solutions and drive advancements in the field.
+            Now, I am eager to explore new opportunities as a Frontend Developer
+            , leveraging my skills to drive advancements in the field.
           </p>
         </div>
         <div className="download-button">
