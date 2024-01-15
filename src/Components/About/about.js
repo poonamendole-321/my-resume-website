@@ -38,23 +38,25 @@ const About = () => {
       <div className="about_data">
         <div className="about_para">
           <p>
-            After completing my BCA, I commenced a fulfilling journey with an
-            internship as a Software Developer at VgroomU. This experience
-            seamlessly transitioned into a continued role within the same
-            organization until October 2023
+           Over the past year, I've collaborated with startups, playing a key
+            role in helping them realize their full potential and attract new
+            customers.
           </p>
           <p>
-            In this role, I collaborated across teams to deliver high-quality
-            projects promptly. I focused on creating visually appealing,
-            user-friendly websites, prioritizing a seamless user experience.
-            Proactively incorporating client feedback, I led design revisions
-            that significantly improved overall satisfaction.
+            After completing my BCA, I pursued an internship as a Software
+            Developer intern at VgroomU. Following the internship, I
+            transitioned into a continued role as a Software Developer within
+            the same organization. However, as of October, I have concluded my
+            tenure at VgroomU and am currently in the process of exploring new
+            opportunities as a fresh graduate.
           </p>
           <p>
-            Now, I am eager to explore new opportunities as a Frontend Developer
-            , leveraging my skills to drive advancements in the field.
-          </p>
-        </div>
+            My responsibilities encompass shaping web page design, crafting
+            reusable code, and optimizing loading times. I am enthusiastic about
+            leveraging my experiences to contribute effectively to innovative
+            solutions and drive advancements in the industry.
+         </p>
+         </div>
         <div className="download-button">
           {!downloaded ? (
             <button onClick={handleDownload}>Download My Resume</button>
