@@ -38,22 +38,23 @@ const About = () => {
       <div className="about_data">
         <div className="about_para">
           <p>
-            Over the past 1 year, I’ve worked with startups to successfully help
-            them reach their full potential and attract new customers.
+            Over the past year, I've collaborated with startups, playing a key
+            role in helping them realize their full potential and attract new
+            customers.
           </p>
           <p>
-            After completing my BCA, undertook an internship as a Software
-            Developer intern at VgroomU. I then transitioned to a continued role
-            as a Software Developer within the same organization.
+            After completing my BCA, I pursued an internship as a Software
+            Developer intern at VgroomU. Following the internship, I
+            transitioned into a continued role as a Software Developer within
+            the same organization. However, as of October, I have concluded my
+            tenure at VgroomU and am currently in the process of exploring new
+            opportunities as a fresh graduate.
           </p>
           <p>
-            Presently, I'm part of the team Docbuddy, where I play an active
-            role in contributing to software development projects. My role
-            includes shaping web page design, creating reusable code, and
-            optimizing loading times, I honed my skills in API integrations.
-            These experiences have enabled me to contribute effectively to the
-            world of software development, as I continue to explore innovative
-            solutions and drive advancements in the field.
+            My responsibilities encompass shaping web page design, crafting
+            reusable code, and optimizing loading times. I am enthusiastic about
+            leveraging my experiences to contribute effectively to innovative
+            solutions and drive advancements in the industry.
           </p>
         </div>
         <div className="download-button">
