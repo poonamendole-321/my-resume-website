@@ -38,7 +38,7 @@ const About = () => {
       <div className="about_data">
         <div className="about_para">
           <p>
-            Over the past year, I've collaborated with startups, playing a key
+           Over the past year, I've collaborated with startups, playing a key
             role in helping them realize their full potential and attract new
             customers.
           </p>
@@ -55,8 +55,8 @@ const About = () => {
             reusable code, and optimizing loading times. I am enthusiastic about
             leveraging my experiences to contribute effectively to innovative
             solutions and drive advancements in the industry.
-          </p>
-        </div>
+         </p>
+         </div>
         <div className="download-button">
           {!downloaded ? (
             <button onClick={handleDownload}>Download My Resume</button>
