@@ -38,25 +38,24 @@ const About = () => {
       <div className="about_data">
         <div className="about_para">
           <p>
-           Over the past year, I've collaborated with startups, playing a key
-            role in helping them realize their full potential and attract new
-            customers.
+            Over the past year, I've had the privilege of collaborating with
+            startups, contributing significantly to their growth and success in
+            acquiring new customers. My journey has been enriched by hands-on
+            experience and learning opportunities at Vgroomu, complemented by a
+            solid foundation laid through my BCA degree.
           </p>
+
           <p>
-            After completing my BCA, I pursued an internship as a Software
-            Developer intern at VgroomU. Following the internship, I
-            transitioned into a continued role as a Software Developer within
-            the same organization. However, as of October, I have concluded my
-            tenure at VgroomU and am currently in the process of exploring new
-            opportunities as a fresh graduate.
+            My aim is to utilize my educational background and practical
+            experience to excel in a dynamic and growth-oriented role. I thrive
+            on innovation and am eager to continue learning and driving positive
+            outcomes for both the organization and myself.I am enthusiastic
+            about applying my knowledge and skills to tackle new challenges and
+            projects. Collaborating with talented colleagues excites me, and I
+            am committed to achieving shared success through dedication,
+            adaptability, and a passion for continuous learning.
           </p>
-          <p>
-            My responsibilities encompass shaping web page design, crafting
-            reusable code, and optimizing loading times. I am enthusiastic about
-            leveraging my experiences to contribute effectively to innovative
-            solutions and drive advancements in the industry.
-         </p>
-         </div>
+        </div>
         <div className="download-button">
           {!downloaded ? (
             <button onClick={handleDownload}>Download My Resume</button>

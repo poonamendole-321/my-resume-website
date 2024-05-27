@@ -5,7 +5,7 @@
 .about_container {
   width: 100%;
   margin: 0 auto;
-  max-width: 1800px;
+  max-width: 1600px;
   justify-content: center;
   text-align: center;
   padding-bottom: 2rem;
@@ -20,7 +20,7 @@
 
 .about_data {
   margin: auto;
-  width: 90%;
+  width: 80%;
 }
 
 .about_para {
@@ -44,7 +44,7 @@
   padding: 10px;
   border-radius: 10px;
   font-size: 1.2rem;
-  border: 1px solid black;
+  border: 2px solid black;
   font-weight: 400;
 }
 
@@ -58,7 +58,7 @@
   }
 
   .about_para {
-    font-size: 1.2rem;
+    font-size: 1rem;
     padding: 0 10px;
   }
 

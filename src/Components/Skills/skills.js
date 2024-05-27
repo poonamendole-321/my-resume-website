@@ -4,14 +4,14 @@ import "./skills.css";
 
 const skillsWithPercentages = [
   { name: "HTML & CSS", percentage: 90 },
-  { name: "TypeScript", percentage: 75 },
-  { name: "JavaScript", percentage: 80 },
-  { name: "Git", percentage: 60 },
-  { name: "GitHub", percentage: 70 },
-  { name: "React", percentage: 80 },
-  { name: "Next js", percentage: 70 },
-  { name: "Antd", percentage: 50 },
-  { name: "Material ui", percentage: 60 },
+  { name: "JavaScript & TypeScript ", percentage: 70 },
+  { name: "React js & Next js", percentage: 80 },
+  { name: "Git & GitHub", percentage: 80 },
+  { name: "Antd & Material ui", percentage: 75 },
+  { name: "VS Code", percentage: 80 },
+  { name: "Postman", percentage: 40 },
+  { name: "java", percentage: 50 },
+  { name: "jira", percentage: 60 },
 ];
 
 const Skills = () => {

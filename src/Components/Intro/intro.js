@@ -11,7 +11,7 @@ const Intro = () => {
         <h1 className="my_intro_name">
           Hello<span> I'm Poonam</span>
         </h1>
-        <h2 className="my_intro_heading">A BCA Graduate</h2>
+        <h2 className="my_intro_heading">Javascript Developer</h2>
         <p className="my_intro_para">
           "Welcome to my website. I'm passionate about creating visually
           stunning and user-friendly websites. With a strong background in HTML,
